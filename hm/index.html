@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Yearly Heatmap Cycle</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<style>
+  html, body { height: 100%; margin: 0; }
+  #map { height: 100%; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<!-- Leaflet core -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<!-- Leaflet heat plugin -->
+<script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+<script>
+(async function() {
+    try {
+        // Load JSON data
+        const response = await fetch('data.json');
+        if (!response.ok) throw new Error('Failed to load JSON');
+        const rawData = await response.json();
+
+        // Group points by year
+        const yearlyData = {};
+        rawData.forEach(item => {
+            if (!item.obsDt || typeof item.latitude !== 'number' || typeof item.longitude !== 'number') return;
+            const year = new Date(item.obsDt).getFullYear();
+            if (!yearlyData[year]) yearlyData[year] = [];
+            yearlyData[year].push([item.latitude, item.longitude, item.howMany || 1]);
+        });
+
+        const years = Object.keys(yearlyData).sort();
+        if (years.length === 0) throw new Error('No valid data found');
+
+        // Initialize map
+        const map = L.map('map').setView([49.884, -97.14704], 10);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Define a custom control for displaynig the year
+        L.Control.Textbox = L.Control.extend({
+            onAdd: function () {
+                var textDiv = L.DomUtil.create('div');
+                textDiv.id = "info_text";
+                textDiv.innerHTML = "<h1>Loading...</h1>";
+                return textDiv;
+            },
+            updateText: function (newText) {
+                document.getElementById("info_text").innerHTML = newText;
+            }
+        });
+
+        // Add the control to the map
+        var textbox = new L.Control.Textbox({ position: 'bottomleft' });
+        textbox.addTo(map);
+
+        let heatLayer = null;
+        let index = 0;
+
+        function showYear(year) {
+            if (heatLayer) map.removeLayer(heatLayer);
+            heatLayer = L.heatLayer(yearlyData[year], { radius: 25, blur: 15, maxZoom: 5 }).addTo(map);
+            console.log(`Showing year: ${year}`);
+            textbox.updateText(`"<h1>${year}</h1>`);
+        }
+
+        // Cycle through years every second
+        showYear(years[index]);
+        setInterval(() => {
+            index = (index + 1) % years.length;
+            showYear(years[index]);
+        }, 1000);
+
+    } catch (err) {
+        console.error(err);
+        alert('Error: ' + err.message);
+    }
+})();
+</script>
+</body>
+</html>

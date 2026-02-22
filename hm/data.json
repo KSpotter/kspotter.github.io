@@ -1,0 +1,3152 @@
+[
+  {
+    "latitude": 49.802005767822266,
+    "longitude": -97.15764617919922,
+    "subID": "S61630333",
+    "howMany": 1,
+    "obsDt": "2019-11-20",
+    "userDisplayName": "Stephanie Thompson",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0121955871582,
+    "longitude": -96.84232330322266,
+    "subID": "S62096185",
+    "howMany": 1,
+    "obsDt": "2012-04-20",
+    "userDisplayName": "Rudolf Koes",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8783073425293,
+    "longitude": -97.1527099609375,
+    "subID": "S94356672",
+    "howMany": 1,
+    "obsDt": "2021-09-07",
+    "userDisplayName": "Emily Runnells",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8783073425293,
+    "longitude": -97.1527099609375,
+    "subID": "S94356671",
+    "howMany": 1,
+    "obsDt": "2021-09-07",
+    "userDisplayName": "Michael Schrimpf",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8783073425293,
+    "longitude": -97.1527099609375,
+    "subID": "S73054869",
+    "howMany": 1,
+    "obsDt": "2020-08-31",
+    "userDisplayName": "Emily Runnells",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8783073425293,
+    "longitude": -97.1527099609375,
+    "subID": "S73054851",
+    "howMany": 1,
+    "obsDt": "2020-08-31",
+    "userDisplayName": "Michael Schrimpf",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8783073425293,
+    "longitude": -97.1527099609375,
+    "subID": "S66225823",
+    "howMany": 1,
+    "obsDt": "2020-03-25",
+    "userDisplayName": "Emily Runnells",
+    "evidence": "A"
+  },
+  {
+    "latitude": 49.8783073425293,
+    "longitude": -97.1527099609375,
+    "subID": "S66225822",
+    "howMany": 1,
+    "obsDt": "2020-03-25",
+    "userDisplayName": "Michael Schrimpf",
+    "evidence": "A"
+  },
+  {
+    "latitude": 49.87936782836914,
+    "longitude": -97.1504135131836,
+    "subID": "S73691361",
+    "howMany": 1,
+    "obsDt": "2020-09-16",
+    "userDisplayName": "Michael Schrimpf",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.874542236328125,
+    "longitude": -97.23397064208984,
+    "subID": "S63916869",
+    "howMany": 1,
+    "obsDt": "2020-01-29",
+    "userDisplayName": "Barb Taylor",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84059524536133,
+    "longitude": -97.12702178955078,
+    "subID": "S63908549",
+    "howMany": 1,
+    "obsDt": "2020-01-29",
+    "userDisplayName": "Kelsey Bell",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.72493362426758,
+    "longitude": -97.12562561035156,
+    "subID": "S64289315",
+    "howMany": 1,
+    "obsDt": "2020-02-09",
+    "userDisplayName": "Jay \u0026 Judy Anderson",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S83041460",
+    "howMany": 1,
+    "obsDt": "2021-03-08",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S69956748",
+    "howMany": 1,
+    "obsDt": "2020-06-01",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S69398590",
+    "howMany": 2,
+    "obsDt": "2020-05-20",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S66883530",
+    "howMany": 2,
+    "obsDt": "2020-04-09",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S66843180",
+    "howMany": 2,
+    "obsDt": "2020-04-08",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S66648058",
+    "howMany": 1,
+    "obsDt": "2020-04-04",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S66457766",
+    "howMany": 1,
+    "obsDt": "2020-03-31",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84062194824219,
+    "longitude": -97.12706756591797,
+    "subID": "S66422466",
+    "howMany": 2,
+    "obsDt": "2020-03-30",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87228775024414,
+    "longitude": -97.1683349609375,
+    "subID": "S95012381",
+    "howMany": 1,
+    "obsDt": "2021-09-14",
+    "userDisplayName": "Jay \u0026 Judy Anderson",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84076690673828,
+    "longitude": -97.12710571289062,
+    "subID": "S66792688",
+    "howMany": 1,
+    "obsDt": "2020-04-07",
+    "userDisplayName": "Linda Pearn",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84053421020508,
+    "longitude": -97.12694549560547,
+    "subID": "S66881194",
+    "howMany": 1,
+    "obsDt": "2020-04-08",
+    "userDisplayName": "Blair Reid",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84072494506836,
+    "longitude": -97.127197265625,
+    "subID": "S66882436",
+    "howMany": 1,
+    "obsDt": "2020-04-09",
+    "userDisplayName": "Lee Adam",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84024429321289,
+    "longitude": -97.12833404541016,
+    "subID": "S71738482",
+    "howMany": 2,
+    "obsDt": "2020-07-22",
+    "userDisplayName": "Ken Simonite",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84013366699219,
+    "longitude": -97.1272964477539,
+    "subID": "S67336097",
+    "howMany": 1,
+    "obsDt": "2020-04-16",
+    "userDisplayName": "Linda Pearn",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84061813354492,
+    "longitude": -97.12700653076172,
+    "subID": "S69119786",
+    "howMany": 1,
+    "obsDt": "2020-05-15",
+    "userDisplayName": "Wendy Barker",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84061813354492,
+    "longitude": -97.12700653076172,
+    "subID": "S68760547",
+    "howMany": 1,
+    "obsDt": "2020-05-09",
+    "userDisplayName": "Wendy Barker",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84061813354492,
+    "longitude": -97.12700653076172,
+    "subID": "S67699521",
+    "howMany": 1,
+    "obsDt": "2020-04-23",
+    "userDisplayName": "Wendy Barker",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.875587463378906,
+    "longitude": -97.1836929321289,
+    "subID": "S67643625",
+    "howMany": 1,
+    "obsDt": "2020-04-18",
+    "userDisplayName": "Heather Hinam",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87458038330078,
+    "longitude": -97.15911102294922,
+    "subID": "S81491241",
+    "howMany": 1,
+    "obsDt": "2021-02-14",
+    "userDisplayName": "Paul Des Brisay",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.950035095214844,
+    "longitude": -97.05859375,
+    "subID": "S154396241",
+    "howMany": 1,
+    "obsDt": "2023-11-13",
+    "userDisplayName": "Gwen Armbruster",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84050750732422,
+    "longitude": -97.1265640258789,
+    "subID": "S69191130",
+    "howMany": 1,
+    "obsDt": "2020-05-16",
+    "userDisplayName": "Smokey De Bird",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84050750732422,
+    "longitude": -97.1265640258789,
+    "subID": "S69191129",
+    "howMany": 1,
+    "obsDt": "2020-05-16",
+    "userDisplayName": "Rufous Sagebrush",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87775421142578,
+    "longitude": -97.18342590332031,
+    "subID": "S83166057",
+    "howMany": 1,
+    "obsDt": "2021-03-10",
+    "userDisplayName": "Esther and Gyula Mackinlay - Gergely",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87775421142578,
+    "longitude": -97.18342590332031,
+    "subID": "S69248269",
+    "howMany": 1,
+    "obsDt": "2020-05-17",
+    "userDisplayName": "Esther and Gyula Mackinlay - Gergely",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.81000518798828,
+    "longitude": -97.11479187011719,
+    "subID": "S75259121",
+    "howMany": 1,
+    "obsDt": "2020-10-23",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.76165008544922,
+    "longitude": -97.1427230834961,
+    "subID": "S87210572",
+    "howMany": 1,
+    "obsDt": "2021-05-05",
+    "userDisplayName": "Dave Rogalsky",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.76165008544922,
+    "longitude": -97.1427230834961,
+    "subID": "S87207847",
+    "howMany": 1,
+    "obsDt": "2021-05-05",
+    "userDisplayName": "Dave Rogalsky",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.948734283447266,
+    "longitude": -97.05819702148438,
+    "subID": "S154587508",
+    "howMany": 1,
+    "obsDt": "2023-11-16",
+    "userDisplayName": "liz cieszynski",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.948734283447266,
+    "longitude": -97.05819702148438,
+    "subID": "S96999857",
+    "howMany": 1,
+    "obsDt": "2021-11-01",
+    "userDisplayName": "Rudolf Koes",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.86357879638672,
+    "longitude": -97.49593353271484,
+    "subID": "S110243280",
+    "howMany": 1,
+    "obsDt": "2017-12-29",
+    "userDisplayName": "Walker Kele",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.83992385864258,
+    "longitude": -97.12770080566406,
+    "subID": "S71131054",
+    "howMany": 1,
+    "obsDt": "2020-07-04",
+    "userDisplayName": "Jock McCracken",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.605552673339844,
+    "longitude": -97.0411605834961,
+    "subID": "S72163704",
+    "howMany": 1,
+    "obsDt": "1977-09-04",
+    "userDisplayName": "Gene Walz",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.81344985961914,
+    "longitude": -97.12751770019531,
+    "subID": "S76808048",
+    "howMany": 1,
+    "obsDt": "2020-11-16",
+    "userDisplayName": "Justin Benjamin",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.880699157714844,
+    "longitude": -97.13812255859375,
+    "subID": "S162196153",
+    "howMany": 1,
+    "obsDt": "2024-02-18",
+    "userDisplayName": "Betsy Thorsteinson",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.880699157714844,
+    "longitude": -97.13812255859375,
+    "subID": "S162194816",
+    "howMany": 1,
+    "obsDt": "2024-02-18",
+    "userDisplayName": "Jo Swartz",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.880699157714844,
+    "longitude": -97.13812255859375,
+    "subID": "S3444386",
+    "howMany": 1,
+    "obsDt": "2000-04-17",
+    "userDisplayName": "Luc Blanchette",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.86274337768555,
+    "longitude": -97.34518432617188,
+    "subID": "S136231135",
+    "howMany": 1,
+    "obsDt": "2023-05-05",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87198257446289,
+    "longitude": -97.11963653564453,
+    "subID": "S86806555",
+    "howMany": 1,
+    "obsDt": "2021-04-27",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.882137298583984,
+    "longitude": -97.1685562133789,
+    "subID": "S74664743",
+    "howMany": 1,
+    "obsDt": "2020-04-30",
+    "userDisplayName": "Bucky Driedger",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.679832458496094,
+    "longitude": -97.1210708618164,
+    "subID": "S2532783",
+    "howMany": 1,
+    "obsDt": "1992-01-08",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.679832458496094,
+    "longitude": -97.1210708618164,
+    "subID": "S2532246",
+    "howMany": 1,
+    "obsDt": "1990-02-25",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.05224609375,
+    "longitude": -96.8650894165039,
+    "subID": "S76610680",
+    "howMany": 1,
+    "obsDt": "2020-11-23",
+    "userDisplayName": "Katie Smith",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84877014160156,
+    "longitude": -97.12662506103516,
+    "subID": "S76128381",
+    "howMany": 1,
+    "obsDt": "2020-11-11",
+    "userDisplayName": "Kirstyn Eckhardt",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.828102111816406,
+    "longitude": -97.14004516601562,
+    "subID": "S76141602",
+    "howMany": 1,
+    "obsDt": "2020-11-11",
+    "userDisplayName": "Emily Thoroski",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.723304748535156,
+    "longitude": -97.17070007324219,
+    "subID": "S79096533",
+    "howMany": 1,
+    "obsDt": "2021-01-11",
+    "userDisplayName": "daryl maiers",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8642692565918,
+    "longitude": -97.12480926513672,
+    "subID": "S104144166",
+    "howMany": 1,
+    "obsDt": "2022-03-04",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.85643768310547,
+    "longitude": -97.23963928222656,
+    "subID": "S77071548",
+    "howMany": 1,
+    "obsDt": "2020-10-24",
+    "userDisplayName": "Brad Whitson",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.96574020385742,
+    "longitude": -97.07258605957031,
+    "subID": "S125003385",
+    "howMany": 1,
+    "obsDt": "2022-12-08",
+    "userDisplayName": "Laurie Proky",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.96574020385742,
+    "longitude": -97.07258605957031,
+    "subID": "S125002765",
+    "howMany": 1,
+    "obsDt": "2022-12-03",
+    "userDisplayName": "Laurie Proky",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.7682991027832,
+    "longitude": -97.15560150146484,
+    "subID": "S102948178",
+    "howMany": 1,
+    "obsDt": "2022-01-03",
+    "userDisplayName": "Kevin Sim",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.7682991027832,
+    "longitude": -97.15560150146484,
+    "subID": "S95568523",
+    "howMany": 1,
+    "obsDt": "2021-10-02",
+    "userDisplayName": "Kevin Sim",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.7682991027832,
+    "longitude": -97.15560150146484,
+    "subID": "S83433314",
+    "howMany": 1,
+    "obsDt": "2021-03-14",
+    "userDisplayName": "Kevin Sim",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.7682991027832,
+    "longitude": -97.15560150146484,
+    "subID": "S79253446",
+    "howMany": 1,
+    "obsDt": "2021-01-09",
+    "userDisplayName": "Kevin Sim",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.85423278808594,
+    "longitude": -97.1279067993164,
+    "subID": "S90116621",
+    "howMany": 1,
+    "obsDt": "2021-06-13",
+    "userDisplayName": "Shelagh Parken",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.89765167236328,
+    "longitude": -97.1128158569336,
+    "subID": "S270478253",
+    "howMany": 1,
+    "obsDt": "2025-08-30",
+    "userDisplayName": "Jennifer Clark",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.817874908447266,
+    "longitude": -97.12181091308594,
+    "subID": "S84284792",
+    "howMany": 1,
+    "obsDt": "2021-03-28",
+    "userDisplayName": "Jennifer Fisher",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.817874908447266,
+    "longitude": -97.12181091308594,
+    "subID": "S84284791",
+    "howMany": 1,
+    "obsDt": "2021-03-28",
+    "userDisplayName": "Mike Fisher",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87712860107422,
+    "longitude": -97.1819076538086,
+    "subID": "S84876003",
+    "howMany": 1,
+    "obsDt": "2021-04-05",
+    "userDisplayName": "Chris Meiklejohn",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.7943229675293,
+    "longitude": -97.12480926513672,
+    "subID": "S96849959",
+    "howMany": 1,
+    "obsDt": "2021-10-29",
+    "userDisplayName": "Frank Machovec",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.757755279541016,
+    "longitude": -97.15520477294922,
+    "subID": "S108976530",
+    "howMany": 2,
+    "obsDt": "2022-05-04",
+    "userDisplayName": "Norbert Schuster",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.95037841796875,
+    "longitude": -97.05864715576172,
+    "subID": "S97083835",
+    "howMany": 1,
+    "obsDt": "2021-11-03",
+    "userDisplayName": "Moira Swinton",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.8656005859375,
+    "longitude": -97.49839782714844,
+    "subID": "S97209499",
+    "howMany": 1,
+    "obsDt": "2021-11-06",
+    "userDisplayName": "Kyle Penner",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84202194213867,
+    "longitude": -97.13417053222656,
+    "subID": "S114889836",
+    "howMany": 1,
+    "obsDt": "2022-07-11",
+    "userDisplayName": "Gene Walz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.94710159301758,
+    "longitude": -97.0912857055664,
+    "subID": "S101658989",
+    "howMany": 1,
+    "obsDt": "2022-01-29",
+    "userDisplayName": "Emma K",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.94661331176758,
+    "longitude": -97.09329986572266,
+    "subID": "S101676602",
+    "howMany": 1,
+    "obsDt": "2022-01-29",
+    "userDisplayName": "Vitalii Khustochka",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S243820163",
+    "howMany": 1,
+    "obsDt": "2025-05-28",
+    "userDisplayName": "William Rideout",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S237798991",
+    "howMany": 1,
+    "obsDt": "2025-05-14",
+    "userDisplayName": "William Rideout",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S163019073",
+    "howMany": 1,
+    "obsDt": "2024-02-26",
+    "userDisplayName": "Chantille Upadhyaya",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S143861156",
+    "howMany": 1,
+    "obsDt": "2023-07-01",
+    "userDisplayName": "Mat Lortie",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S143861155",
+    "howMany": 1,
+    "obsDt": "2023-07-01",
+    "userDisplayName": "Alyssa Lortie",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S85741069",
+    "howMany": 1,
+    "obsDt": "2021-04-17",
+    "userDisplayName": "daryl maiers",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S74495876",
+    "howMany": 1,
+    "obsDt": "2020-10-06",
+    "userDisplayName": "Michael Salazar",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S76431940",
+    "howMany": 1,
+    "obsDt": "2018-04-18",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S40492494",
+    "howMany": 1,
+    "obsDt": "2017-11-13",
+    "userDisplayName": "Anne  MacLean",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S32582813",
+    "howMany": 1,
+    "obsDt": "2016-11-15",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S36794463",
+    "howMany": 1,
+    "obsDt": "2016-09-18",
+    "userDisplayName": "Heather Hinam",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S29763030",
+    "howMany": 1,
+    "obsDt": "2016-05-16",
+    "userDisplayName": "Heather Hinam",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S27241412",
+    "howMany": 1,
+    "obsDt": "2014-03-27",
+    "userDisplayName": "Liam McGuire",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S17073705",
+    "howMany": 2,
+    "obsDt": "2014-02-18",
+    "userDisplayName": "Paolo Matteucci",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S16348007",
+    "howMany": 1,
+    "obsDt": "2014-01-11",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84999084472656,
+    "longitude": -97.48017120361328,
+    "subID": "S16341132",
+    "howMany": 1,
+    "obsDt": "2014-01-11",
+    "userDisplayName": "Ward Christianson",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.80923080444336,
+    "longitude": -97.13302612304688,
+    "subID": "S27208164",
+    "howMany": 1,
+    "obsDt": "1985-12-21",
+    "userDisplayName": "Robert Parsons",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S297769910",
+    "howMany": 1,
+    "obsDt": "2026-02-02",
+    "userDisplayName": "Walker Kele",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S298037093",
+    "howMany": 1,
+    "obsDt": "2026-02-02",
+    "userDisplayName": "Denton Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S235995903",
+    "howMany": 2,
+    "obsDt": "2025-05-10",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S235994338",
+    "howMany": 2,
+    "obsDt": "2025-05-10",
+    "userDisplayName": "Denton Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S235989764",
+    "howMany": 2,
+    "obsDt": "2025-05-10",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S250885300",
+    "howMany": 1,
+    "obsDt": "2025-04-26",
+    "userDisplayName": "Linnea Poole",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S250885299",
+    "howMany": 1,
+    "obsDt": "2025-04-26",
+    "userDisplayName": "Tim Poole",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S229350174",
+    "howMany": 1,
+    "obsDt": "2025-04-25",
+    "userDisplayName": "Paul Beaulieu",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S226836481",
+    "howMany": 1,
+    "obsDt": "2025-04-18",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S219077988",
+    "howMany": 1,
+    "obsDt": "2025-02-01",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S215199496",
+    "howMany": 1,
+    "obsDt": "2025-02-01",
+    "userDisplayName": "Denton Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S207183885",
+    "howMany": 1,
+    "obsDt": "2024-12-29",
+    "userDisplayName": "Ray M\u00E9thot",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S207183706",
+    "howMany": 1,
+    "obsDt": "2024-12-29",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S162237543",
+    "howMany": 1,
+    "obsDt": "2024-02-18",
+    "userDisplayName": "Alanna Yuen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S162116644",
+    "howMany": 1,
+    "obsDt": "2024-02-18",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S162193577",
+    "howMany": 1,
+    "obsDt": "2024-02-03",
+    "userDisplayName": "Ray M\u00E9thot",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S160997556",
+    "howMany": 1,
+    "obsDt": "2024-02-03",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S156398483",
+    "howMany": 1,
+    "obsDt": "2023-12-03",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S84229109",
+    "howMany": 1,
+    "obsDt": "2021-03-27",
+    "userDisplayName": "Bryan Ugrin",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.91267395019531,
+    "longitude": -97.14261627197266,
+    "subID": "S71764764",
+    "howMany": 3,
+    "obsDt": "2020-07-20",
+    "userDisplayName": "MARK HUEBERT",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87723922729492,
+    "longitude": -97.18081665039062,
+    "subID": "S162142369",
+    "howMany": 1,
+    "obsDt": "2024-02-18",
+    "userDisplayName": "Robert Parsons",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.840118408203125,
+    "longitude": -97.12761688232422,
+    "subID": "S296910753",
+    "howMany": 1,
+    "obsDt": "2026-01-29",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.72830581665039,
+    "longitude": -96.72955322265625,
+    "subID": "S247259059",
+    "howMany": 1,
+    "obsDt": "2025-06-06",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.88317108154297,
+    "longitude": -97.14261627197266,
+    "subID": "S111926027",
+    "howMany": 1,
+    "obsDt": "2022-05-31",
+    "userDisplayName": "Kennedy Irvine",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0565299987793,
+    "longitude": -96.87088012695312,
+    "subID": "S112279335",
+    "howMany": 1,
+    "obsDt": "2022-06-06",
+    "userDisplayName": "Katie Smith",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84467697143555,
+    "longitude": -97.16353607177734,
+    "subID": "S122408616",
+    "howMany": 1,
+    "obsDt": "2022-11-14",
+    "userDisplayName": "Graham Podolecki",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.86286163330078,
+    "longitude": -97.49679565429688,
+    "subID": "S119983224",
+    "howMany": 1,
+    "obsDt": "2022-10-04",
+    "userDisplayName": "Paul Friesen",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.796810150146484,
+    "longitude": -97.12386322021484,
+    "subID": "S75092486",
+    "howMany": 1,
+    "obsDt": "2020-10-19",
+    "userDisplayName": "Matthew Gasner",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.796810150146484,
+    "longitude": -97.12386322021484,
+    "subID": "S74848001",
+    "howMany": 1,
+    "obsDt": "2020-10-15",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.796810150146484,
+    "longitude": -97.12386322021484,
+    "subID": "S48083711",
+    "howMany": 1,
+    "obsDt": "2018-08-26",
+    "userDisplayName": "Paolo Matteucci",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S296924542",
+    "howMany": 1,
+    "obsDt": "2026-01-29",
+    "userDisplayName": "Ward Christianson",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S195524181",
+    "howMany": 1,
+    "obsDt": "2024-09-17",
+    "userDisplayName": "Ward Christianson",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S195524180",
+    "howMany": 1,
+    "obsDt": "2024-09-17",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S194592980",
+    "howMany": 1,
+    "obsDt": "2024-09-09",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S170645276",
+    "howMany": 1,
+    "obsDt": "2024-04-27",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S146151122",
+    "howMany": 2,
+    "obsDt": "2023-07-31",
+    "userDisplayName": "Ward Christianson",
+    "evidence": "A"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S146151121",
+    "howMany": 2,
+    "obsDt": "2023-07-31",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": "A"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S136227597",
+    "howMany": 1,
+    "obsDt": "2023-05-05",
+    "userDisplayName": "Ward Christianson",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S136227596",
+    "howMany": 1,
+    "obsDt": "2023-05-05",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S135989750",
+    "howMany": 1,
+    "obsDt": "2023-05-03",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S120360073",
+    "howMany": 2,
+    "obsDt": "2022-10-09",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S120360072",
+    "howMany": 2,
+    "obsDt": "2022-10-09",
+    "userDisplayName": "Ward Christianson",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S119981732",
+    "howMany": 1,
+    "obsDt": "2022-10-04",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S119981731",
+    "howMany": 1,
+    "obsDt": "2022-10-04",
+    "userDisplayName": "Ward Christianson",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S114839437",
+    "howMany": 2,
+    "obsDt": "2022-07-10",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S66788638",
+    "howMany": 2,
+    "obsDt": "2020-04-07",
+    "userDisplayName": "Ward Christianson",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.840240478515625,
+    "longitude": -97.13111877441406,
+    "subID": "S66788637",
+    "howMany": 2,
+    "obsDt": "2020-04-07",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.754188537597656,
+    "longitude": -96.91719818115234,
+    "subID": "S131648394",
+    "howMany": 1,
+    "obsDt": "2023-03-21",
+    "userDisplayName": "Denis Gravel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.85441970825195,
+    "longitude": -97.24256896972656,
+    "subID": "S123975798",
+    "howMany": 1,
+    "obsDt": "2022-12-14",
+    "userDisplayName": "Shirley Rushforth Guinn",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.863590240478516,
+    "longitude": -97.49443817138672,
+    "subID": "S125045593",
+    "howMany": 1,
+    "obsDt": "2022-10-15",
+    "userDisplayName": "Josh Dewitt",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.83820343017578,
+    "longitude": -97.12074279785156,
+    "subID": "S136107426",
+    "howMany": 1,
+    "obsDt": "2023-05-04",
+    "userDisplayName": "Ward Christianson",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.83820343017578,
+    "longitude": -97.12074279785156,
+    "subID": "S136107425",
+    "howMany": 1,
+    "obsDt": "2023-05-04",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.83820343017578,
+    "longitude": -97.12074279785156,
+    "subID": "S110327392",
+    "howMany": 1,
+    "obsDt": "2022-05-15",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.83820343017578,
+    "longitude": -97.12074279785156,
+    "subID": "S110327390",
+    "howMany": 1,
+    "obsDt": "2022-05-15",
+    "userDisplayName": "Ward Christianson",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84684753417969,
+    "longitude": -97.17158508300781,
+    "subID": "S18548538",
+    "howMany": 1,
+    "obsDt": "2014-05-25",
+    "userDisplayName": "Matthew Gasner",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.89942932128906,
+    "longitude": -97.11910247802734,
+    "subID": "S129185648",
+    "howMany": 1,
+    "obsDt": "2022-01-03",
+    "userDisplayName": "Paul Van Benthem",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84113693237305,
+    "longitude": -97.13345336914062,
+    "subID": "S166748274",
+    "howMany": 1,
+    "obsDt": "2024-03-31",
+    "userDisplayName": "MARK HUEBERT",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8311882019043,
+    "longitude": -97.1448974609375,
+    "subID": "S170394144",
+    "howMany": 1,
+    "obsDt": "2024-04-26",
+    "userDisplayName": "Claude Garand",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.8311882019043,
+    "longitude": -97.1448974609375,
+    "subID": "S165751163",
+    "howMany": 1,
+    "obsDt": "2024-03-23",
+    "userDisplayName": "Claude Garand",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87702178955078,
+    "longitude": -97.18446350097656,
+    "subID": "S133129417",
+    "howMany": 1,
+    "obsDt": "2023-04-08",
+    "userDisplayName": "Walker Kele",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.877235412597656,
+    "longitude": -97.18500518798828,
+    "subID": "S133168190",
+    "howMany": 1,
+    "obsDt": "2023-04-08",
+    "userDisplayName": "Richard Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87706756591797,
+    "longitude": -97.18431854248047,
+    "subID": "S133183444",
+    "howMany": 1,
+    "obsDt": "2023-04-08",
+    "userDisplayName": "Juniper  Giesbrecht",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17373723",
+    "howMany": 1,
+    "obsDt": "2014-03-09",
+    "userDisplayName": "Josiah Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17683994",
+    "howMany": 1,
+    "obsDt": "2014-03-06",
+    "userDisplayName": "William Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17339753",
+    "howMany": 1,
+    "obsDt": "2014-03-06",
+    "userDisplayName": "Josiah Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17684068",
+    "howMany": 1,
+    "obsDt": "2014-03-05",
+    "userDisplayName": "William Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17323900",
+    "howMany": 1,
+    "obsDt": "2014-03-05",
+    "userDisplayName": "Josiah Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17684077",
+    "howMany": 1,
+    "obsDt": "2014-03-04",
+    "userDisplayName": "William Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.98701095581055,
+    "longitude": -96.96560668945312,
+    "subID": "S17312656",
+    "howMany": 1,
+    "obsDt": "2014-03-04",
+    "userDisplayName": "Josiah Van Egmond",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.92985534667969,
+    "longitude": -97.10856628417969,
+    "subID": "S196390655",
+    "howMany": 1,
+    "obsDt": "2024-09-24",
+    "userDisplayName": "Rudolf Koes",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.92985534667969,
+    "longitude": -97.10856628417969,
+    "subID": "S196389761",
+    "howMany": 1,
+    "obsDt": "2024-09-24",
+    "userDisplayName": "Alvin Dyck",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.86965560913086,
+    "longitude": -97.2152328491211,
+    "subID": "S96139074",
+    "howMany": 1,
+    "obsDt": "2021-10-14",
+    "userDisplayName": "Robert Parsons",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.79685592651367,
+    "longitude": -97.13184356689453,
+    "subID": "S49097856",
+    "howMany": 1,
+    "obsDt": "2018-10-08",
+    "userDisplayName": "Paul Buchanan",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.98751449584961,
+    "longitude": -96.96712493896484,
+    "subID": "S17340221",
+    "howMany": 1,
+    "obsDt": "2014-03-05",
+    "userDisplayName": "Anne Belton",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.88431930541992,
+    "longitude": -97.14257049560547,
+    "subID": "S153289351",
+    "howMany": 1,
+    "obsDt": "2023-10-28",
+    "userDisplayName": "Holly Knote",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.848358154296875,
+    "longitude": -97.24861145019531,
+    "subID": "S155634766",
+    "howMany": 1,
+    "obsDt": "2023-12-02",
+    "userDisplayName": "R. K.",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.89802932739258,
+    "longitude": -97.1137466430664,
+    "subID": "S61206266",
+    "howMany": 1,
+    "obsDt": "2019-11-05",
+    "userDisplayName": "Olga Redko",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.856380462646484,
+    "longitude": -97.24154663085938,
+    "subID": "S265339088",
+    "howMany": 1,
+    "obsDt": "2025-03-31",
+    "userDisplayName": "Asher  Warkentin",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.71809768676758,
+    "longitude": -97.1765365600586,
+    "subID": "S103069482",
+    "howMany": 1,
+    "obsDt": "2022-02-19",
+    "userDisplayName": "Carl Hrenchuk",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.71809768676758,
+    "longitude": -97.1765365600586,
+    "subID": "S79244955",
+    "howMany": 1,
+    "obsDt": "2021-01-14",
+    "userDisplayName": "Brian Lund",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.71809768676758,
+    "longitude": -97.1765365600586,
+    "subID": "S79253499",
+    "howMany": 1,
+    "obsDt": "2021-01-09",
+    "userDisplayName": "Kevin Sim",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87940216064453,
+    "longitude": -97.1451416015625,
+    "subID": "S159699462",
+    "howMany": 1,
+    "obsDt": "2022-01-03",
+    "userDisplayName": "Alanna Yuen",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.79636001586914,
+    "longitude": -97.13192749023438,
+    "subID": "S209498555",
+    "howMany": 1,
+    "obsDt": "2025-01-15",
+    "userDisplayName": "Paul Buchanan",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87187194824219,
+    "longitude": -97.16898345947266,
+    "subID": "S292278104",
+    "howMany": 1,
+    "obsDt": "2026-01-03",
+    "userDisplayName": "Cameron Tramley",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.861328125,
+    "longitude": -97.47740936279297,
+    "subID": "S163589094",
+    "howMany": 1,
+    "obsDt": "2024-03-03",
+    "userDisplayName": "Chantille Upadhyaya",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87645721435547,
+    "longitude": -97.18021392822266,
+    "subID": "S165890015",
+    "howMany": 1,
+    "obsDt": "2024-03-24",
+    "userDisplayName": "Richard Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87645721435547,
+    "longitude": -97.18021392822266,
+    "subID": "S165890014",
+    "howMany": 1,
+    "obsDt": "2024-03-24",
+    "userDisplayName": "Walker Kele",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876773834228516,
+    "longitude": -97.18036651611328,
+    "subID": "S166034888",
+    "howMany": 1,
+    "obsDt": "2024-03-26",
+    "userDisplayName": "Avital Shalev",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84029769897461,
+    "longitude": -97.12893676757812,
+    "subID": "S295406917",
+    "howMany": 1,
+    "obsDt": "2026-01-20",
+    "userDisplayName": "Paul Doerksen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84029769897461,
+    "longitude": -97.12893676757812,
+    "subID": "S290367724",
+    "howMany": 1,
+    "obsDt": "2025-12-26",
+    "userDisplayName": "Paul Doerksen",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84029769897461,
+    "longitude": -97.12893676757812,
+    "subID": "S186129987",
+    "howMany": 2,
+    "obsDt": "2024-07-08",
+    "userDisplayName": "Paul Doerksen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84029769897461,
+    "longitude": -97.12893676757812,
+    "subID": "S186126912",
+    "howMany": 2,
+    "obsDt": "2024-07-08",
+    "userDisplayName": "Richard Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.84029769897461,
+    "longitude": -97.12893676757812,
+    "subID": "S186126911",
+    "howMany": 2,
+    "obsDt": "2024-07-08",
+    "userDisplayName": "Walker Kele",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.01533508300781,
+    "longitude": -96.89783477783203,
+    "subID": "S39072206",
+    "howMany": 1,
+    "obsDt": "2017-09-07",
+    "userDisplayName": "Sandra Cote",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.869998931884766,
+    "longitude": -97.4800033569336,
+    "subID": "S23189979",
+    "howMany": 2,
+    "obsDt": "2015-05-02",
+    "userDisplayName": "Heather Hinam",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.743202209472656,
+    "longitude": -96.88172149658203,
+    "subID": "S246821536",
+    "howMany": 2,
+    "obsDt": "2025-06-04",
+    "userDisplayName": "Brian Penner",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.743202209472656,
+    "longitude": -96.88172149658203,
+    "subID": "S245138208",
+    "howMany": 1,
+    "obsDt": "2025-05-31",
+    "userDisplayName": "Brian Penner",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.743202209472656,
+    "longitude": -96.88172149658203,
+    "subID": "S242573856",
+    "howMany": 1,
+    "obsDt": "2025-05-25",
+    "userDisplayName": "Brian Penner",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S211767775",
+    "howMany": 1,
+    "obsDt": "2025-02-02",
+    "userDisplayName": "James Chliboyko",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S162488271",
+    "howMany": 1,
+    "obsDt": "2024-02-21",
+    "userDisplayName": "Esther and Gyula Mackinlay - Gergely",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S45019783",
+    "howMany": 1,
+    "obsDt": "2018-04-27",
+    "userDisplayName": "Vitalii Khustochka",
+    "evidence": "N"
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S28459388",
+    "howMany": 1,
+    "obsDt": "2016-03-19",
+    "userDisplayName": "Vitalii Khustochka",
+    "evidence": "N"
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S17425700",
+    "howMany": 1,
+    "obsDt": "2014-03-13",
+    "userDisplayName": "Robert Parsons",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S7807657",
+    "howMany": 1,
+    "obsDt": "2010-02-08",
+    "userDisplayName": "Garry Budyk",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S55675088",
+    "howMany": 1,
+    "obsDt": "2003-01-25",
+    "userDisplayName": "Ward Christianson",
+    "evidence": "N"
+  },
+  {
+    "latitude": 50.0165901184082,
+    "longitude": -96.88347625732422,
+    "subID": "S10903343",
+    "howMany": 1,
+    "obsDt": "1993-05-01",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.829341888427734,
+    "longitude": -97.14382934570312,
+    "subID": "S120030896",
+    "howMany": 1,
+    "obsDt": "2022-03-27",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.829341888427734,
+    "longitude": -97.14382934570312,
+    "subID": "S76252718",
+    "howMany": 1,
+    "obsDt": "2020-11-14",
+    "userDisplayName": "Paul fieldhouse",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.829341888427734,
+    "longitude": -97.14382934570312,
+    "subID": "S77350742",
+    "howMany": 4,
+    "obsDt": "2020-06-08",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": "V"
+  },
+  {
+    "latitude": 49.829341888427734,
+    "longitude": -97.14382934570312,
+    "subID": "S63836706",
+    "howMany": 1,
+    "obsDt": "2020-01-26",
+    "userDisplayName": "Jo Swartz",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.829341888427734,
+    "longitude": -97.14382934570312,
+    "subID": "S63832717",
+    "howMany": 1,
+    "obsDt": "2020-01-26",
+    "userDisplayName": "Robert Parsons",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.865638732910156,
+    "longitude": -97.12358093261719,
+    "subID": "S118609034",
+    "howMany": 1,
+    "obsDt": "2022-02-15",
+    "userDisplayName": "Tim Poole",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.874874114990234,
+    "longitude": -97.14559936523438,
+    "subID": "S288913603",
+    "howMany": 1,
+    "obsDt": "2025-12-16",
+    "userDisplayName": "Campbell MacLean",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.874874114990234,
+    "longitude": -97.14559936523438,
+    "subID": "S281025859",
+    "howMany": 1,
+    "obsDt": "2025-10-24",
+    "userDisplayName": "Campbell MacLean",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.839073181152344,
+    "longitude": -97.14446258544922,
+    "subID": "S36450279",
+    "howMany": 1,
+    "obsDt": "2017-04-30",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.84146499633789,
+    "longitude": -97.13127136230469,
+    "subID": "S195147763",
+    "howMany": 3,
+    "obsDt": "2024-05-28",
+    "userDisplayName": "Paul Friesen",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.72709655761719,
+    "longitude": -97.5302963256836,
+    "subID": "S197920759",
+    "howMany": 1,
+    "obsDt": "2024-10-06",
+    "userDisplayName": "Randy Bossuyt",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S219109103",
+    "howMany": 1,
+    "obsDt": "2025-03-17",
+    "userDisplayName": "daryl maiers",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S218237003",
+    "howMany": 1,
+    "obsDt": "2025-03-12",
+    "userDisplayName": "Walker Kele",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S218126935",
+    "howMany": 1,
+    "obsDt": "2025-03-12",
+    "userDisplayName": "Richard Boyd",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S218124873",
+    "howMany": 1,
+    "obsDt": "2025-03-12",
+    "userDisplayName": "Walker Kele",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217733697",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217571981",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Phil Riebel",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217546539",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Kathy Miner",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217327440",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Josh Dewitt",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217203428",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "SK Burroughs",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217185044",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Art Cimento",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217174388",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Robert Liscombe",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217131457",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Pam Watters",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217129004",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Elisa Kreller",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217117340",
+    "howMany": 1,
+    "obsDt": "2025-03-07",
+    "userDisplayName": "Mitch (Michel) Doucet",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217731854",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217547827",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Kathy Miner",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217326455",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Josh Dewitt",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217124514",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Phil Riebel",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217123541",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "SK Burroughs",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217072986",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Elisa Kreller",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217030380",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Robert Liscombe",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217005729",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Pam Watters",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S217002984",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Art Cimento",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S216877767",
+    "howMany": 1,
+    "obsDt": "2025-03-06",
+    "userDisplayName": "Mitch (Michel) Doucet",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S254688347",
+    "howMany": 1,
+    "obsDt": "2025-03-04",
+    "userDisplayName": "Kelsey Bell",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S216665998",
+    "howMany": 1,
+    "obsDt": "2025-03-04",
+    "userDisplayName": "Meredith Stoesz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S214916544",
+    "howMany": 1,
+    "obsDt": "2025-02-22",
+    "userDisplayName": "James Langridge",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S213133064",
+    "howMany": 1,
+    "obsDt": "2025-02-13",
+    "userDisplayName": "Graham Podolecki",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S212218264",
+    "howMany": 1,
+    "obsDt": "2025-02-06",
+    "userDisplayName": "Erik Van Den Kieboom",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S212007933",
+    "howMany": 1,
+    "obsDt": "2025-02-04",
+    "userDisplayName": "Nora Sheedy",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S211818889",
+    "howMany": 1,
+    "obsDt": "2025-02-01",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S211167853",
+    "howMany": 1,
+    "obsDt": "2025-01-29",
+    "userDisplayName": "liz cieszynski",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S211061132",
+    "howMany": 1,
+    "obsDt": "2025-01-28",
+    "userDisplayName": "Moira Swinton",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S210952124",
+    "howMany": 1,
+    "obsDt": "2025-01-27",
+    "userDisplayName": "Graham Podolecki",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S265338994",
+    "howMany": 1,
+    "obsDt": "2025-01-11",
+    "userDisplayName": "Asher  Warkentin",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S212093526",
+    "howMany": 1,
+    "obsDt": "2025-01-04",
+    "userDisplayName": "Josh Dewitt",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S207742925",
+    "howMany": 1,
+    "obsDt": "2025-01-02",
+    "userDisplayName": "daryl maiers",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S202935568",
+    "howMany": 1,
+    "obsDt": "2024-11-18",
+    "userDisplayName": "daryl maiers",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S164857992",
+    "howMany": 1,
+    "obsDt": "2024-03-14",
+    "userDisplayName": "Katrina Wilcox",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S78325259",
+    "howMany": 1,
+    "obsDt": "2020-12-31",
+    "userDisplayName": "Andrew Standfield",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S74108225",
+    "howMany": 1,
+    "obsDt": "2020-09-21",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S73916890",
+    "howMany": 1,
+    "obsDt": "2020-09-21",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S71059366",
+    "howMany": 1,
+    "obsDt": "2020-07-02",
+    "userDisplayName": "Ninish Mesfun",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S66796191",
+    "howMany": 1,
+    "obsDt": "2020-03-24",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S66172067",
+    "howMany": 1,
+    "obsDt": "2020-03-24",
+    "userDisplayName": "Marlene Waldron",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S66172065",
+    "howMany": 1,
+    "obsDt": "2020-03-24",
+    "userDisplayName": "Ward Christianson",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S69876803",
+    "howMany": 1,
+    "obsDt": "2020-03-22",
+    "userDisplayName": "christian artuso",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87395095825195,
+    "longitude": -97.23140716552734,
+    "subID": "S76476228",
+    "howMany": 1,
+    "obsDt": "2019-04-19",
+    "userDisplayName": "Curtis De Pena",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.828128814697266,
+    "longitude": -97.14334869384766,
+    "subID": "S54325446",
+    "howMany": 2,
+    "obsDt": "2019-03-23",
+    "userDisplayName": "christian artuso",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.828128814697266,
+    "longitude": -97.14334869384766,
+    "subID": "S2872912",
+    "howMany": 1,
+    "obsDt": "2006-04-21",
+    "userDisplayName": "christian artuso",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87428283691406,
+    "longitude": -97.23535919189453,
+    "subID": "S216899243",
+    "howMany": 1,
+    "obsDt": "2025-03-05",
+    "userDisplayName": "Jo Swartz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87428283691406,
+    "longitude": -97.23535919189453,
+    "subID": "S211052791",
+    "howMany": 1,
+    "obsDt": "2025-01-28",
+    "userDisplayName": "Jo Swartz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87428283691406,
+    "longitude": -97.23535919189453,
+    "subID": "S66116301",
+    "howMany": 1,
+    "obsDt": "2020-03-22",
+    "userDisplayName": "Jo Swartz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.59926223754883,
+    "longitude": -97.04781341552734,
+    "subID": "S207258638",
+    "howMany": 1,
+    "obsDt": "2024-12-30",
+    "userDisplayName": "Justin Rasmussen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.77450180053711,
+    "longitude": -97.14866638183594,
+    "subID": "S2893947",
+    "howMany": 2,
+    "obsDt": "2004-08-05",
+    "userDisplayName": "christian artuso",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.873512268066406,
+    "longitude": -97.2122573852539,
+    "subID": "S212802700",
+    "howMany": 1,
+    "obsDt": "2025-02-08",
+    "userDisplayName": "Darren Osadchuk",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.873512268066406,
+    "longitude": -97.2122573852539,
+    "subID": "S210822124",
+    "howMany": 1,
+    "obsDt": "2025-01-26",
+    "userDisplayName": "Darren Osadchuk",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87068557739258,
+    "longitude": -97.16634368896484,
+    "subID": "S292457152",
+    "howMany": 1,
+    "obsDt": "2026-01-03",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.87068557739258,
+    "longitude": -97.16634368896484,
+    "subID": "S280349233",
+    "howMany": 1,
+    "obsDt": "2025-10-18",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": "A"
+  },
+  {
+    "latitude": 49.87068557739258,
+    "longitude": -97.16634368896484,
+    "subID": "S268507962",
+    "howMany": 1,
+    "obsDt": "2025-08-20",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": "A"
+  },
+  {
+    "latitude": 49.787147521972656,
+    "longitude": -97.13963317871094,
+    "subID": "S27952126",
+    "howMany": 1,
+    "obsDt": "2016-03-03",
+    "userDisplayName": "William Franzin",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.787147521972656,
+    "longitude": -97.13963317871094,
+    "subID": "S27943395",
+    "howMany": 1,
+    "obsDt": "2016-03-03",
+    "userDisplayName": "William Franzin",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.86690139770508,
+    "longitude": -97.18685913085938,
+    "subID": "S133008935",
+    "howMany": 1,
+    "obsDt": "2023-04-07",
+    "userDisplayName": "Jo Swartz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S194696155",
+    "howMany": 1,
+    "obsDt": "2024-09-10",
+    "userDisplayName": "Graham Podolecki",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S168308802",
+    "howMany": 1,
+    "obsDt": "2024-04-09",
+    "userDisplayName": "Meredith Stoesz",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S159405022",
+    "howMany": 1,
+    "obsDt": "2024-01-20",
+    "userDisplayName": "James Chliboyko",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S59639425",
+    "howMany": 1,
+    "obsDt": "2019-09-09",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S56615302",
+    "howMany": 1,
+    "obsDt": "2019-05-22",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S50030746",
+    "howMany": 1,
+    "obsDt": "2018-11-18",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S36082628",
+    "howMany": 1,
+    "obsDt": "2017-04-18",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S35911636",
+    "howMany": 1,
+    "obsDt": "2017-04-12",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8338508605957,
+    "longitude": -97.1345443725586,
+    "subID": "S35887169",
+    "howMany": 1,
+    "obsDt": "2017-04-11",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.83897018432617,
+    "longitude": -97.14299011230469,
+    "subID": "S45950337",
+    "howMany": 1,
+    "obsDt": "2018-05-23",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.83897018432617,
+    "longitude": -97.14299011230469,
+    "subID": "S45480197",
+    "howMany": 1,
+    "obsDt": "2018-05-08",
+    "userDisplayName": "Dana  Schroeder",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.86363220214844,
+    "longitude": -97.49628448486328,
+    "subID": "S274046696",
+    "howMany": 2,
+    "obsDt": "2025-05-25",
+    "userDisplayName": "Walfried Jansen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.841896057128906,
+    "longitude": -97.1348648071289,
+    "subID": "S188116259",
+    "howMany": 1,
+    "obsDt": "2024-07-21",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.841896057128906,
+    "longitude": -97.1348648071289,
+    "subID": "S67292741",
+    "howMany": 1,
+    "obsDt": "2020-04-15",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.756656646728516,
+    "longitude": -97.15296936035156,
+    "subID": "S255592481",
+    "howMany": 1,
+    "obsDt": "2025-06-22",
+    "userDisplayName": "Matthew Gasner",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.00845718383789,
+    "longitude": -96.88713836669922,
+    "subID": "S29074012",
+    "howMany": 2,
+    "obsDt": "2016-04-19",
+    "userDisplayName": "Sandra Cote",
+    "evidence": ""
+  },
+  {
+    "latitude": 50.02186965942383,
+    "longitude": -96.86520385742188,
+    "subID": "S285050141",
+    "howMany": 1,
+    "obsDt": "2025-11-18",
+    "userDisplayName": "Kirsten Kruse",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.876953125,
+    "longitude": -97.12140655517578,
+    "subID": "S287550152",
+    "howMany": 1,
+    "obsDt": "2025-12-06",
+    "userDisplayName": "Claude Garand",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.708274841308594,
+    "longitude": -97.09795379638672,
+    "subID": "S79195283",
+    "howMany": 1,
+    "obsDt": "2021-01-13",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.708274841308594,
+    "longitude": -97.09795379638672,
+    "subID": "S57930800",
+    "howMany": 2,
+    "obsDt": "2019-07-04",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.708274841308594,
+    "longitude": -97.09795379638672,
+    "subID": "S48254971",
+    "howMany": 1,
+    "obsDt": "2018-09-02",
+    "userDisplayName": "John Weier",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.87117385864258,
+    "longitude": -97.24116516113281,
+    "subID": "S69060876",
+    "howMany": 1,
+    "obsDt": "2020-03-22",
+    "userDisplayName": "Tim Poole",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.76834487915039,
+    "longitude": -97.15099334716797,
+    "subID": "S60067869",
+    "howMany": 1,
+    "obsDt": "2019-09-23",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876731872558594,
+    "longitude": -97.15608978271484,
+    "subID": "S44105003",
+    "howMany": 1,
+    "obsDt": "2017-09-03",
+    "userDisplayName": "Smokey De Bird",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.876731872558594,
+    "longitude": -97.15608978271484,
+    "subID": "S38988512",
+    "howMany": 1,
+    "obsDt": "2017-09-03",
+    "userDisplayName": "Rufous Sagebrush",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.80436325073242,
+    "longitude": -97.1272201538086,
+    "subID": "S60901837",
+    "howMany": 1,
+    "obsDt": "2019-10-24",
+    "userDisplayName": "PC Smith",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.787139892578125,
+    "longitude": -97.13961791992188,
+    "subID": "S67351085",
+    "howMany": 1,
+    "obsDt": "2020-04-17",
+    "userDisplayName": "William Franzin",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.86687088012695,
+    "longitude": -97.36827087402344,
+    "subID": "S59940803",
+    "howMany": 1,
+    "obsDt": "2019-09-19",
+    "userDisplayName": "Bob Shettler",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.86687088012695,
+    "longitude": -97.36827087402344,
+    "subID": "S46737803",
+    "howMany": 1,
+    "obsDt": "2000-02-19",
+    "userDisplayName": "Bob Shettler",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.86133575439453,
+    "longitude": -97.47748565673828,
+    "subID": "S46173280",
+    "howMany": 1,
+    "obsDt": "2018-04-18",
+    "userDisplayName": "Anonymous eBirder",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.888877868652344,
+    "longitude": -97.12965393066406,
+    "subID": "S275606231",
+    "howMany": 1,
+    "obsDt": "2025-09-26",
+    "userDisplayName": "Allissa Schneider",
+    "evidence": "P"
+  },
+  {
+    "latitude": 50.00509262084961,
+    "longitude": -96.94473266601562,
+    "subID": "S12802107",
+    "howMany": 1,
+    "obsDt": "2003-01-26",
+    "userDisplayName": "Robert Parsons",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.93818664550781,
+    "longitude": -97.10270690917969,
+    "subID": "S106015603",
+    "howMany": 1,
+    "obsDt": "2022-04-01",
+    "userDisplayName": "Rudolf Koes",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.8690071105957,
+    "longitude": -97.17121124267578,
+    "subID": "S48731663",
+    "howMany": 1,
+    "obsDt": "2018-09-25",
+    "userDisplayName": "R. C. Woods",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.874961853027344,
+    "longitude": -97.1725082397461,
+    "subID": "S48535147",
+    "howMany": 1,
+    "obsDt": "2018-09-14",
+    "userDisplayName": "Robert Parsons",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.67918014526367,
+    "longitude": -97.11759948730469,
+    "subID": "S33892299",
+    "howMany": 1,
+    "obsDt": "1991-11-23",
+    "userDisplayName": "Robert Parsons",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.67918014526367,
+    "longitude": -97.11759948730469,
+    "subID": "S27273831",
+    "howMany": 1,
+    "obsDt": "1986-03-28",
+    "userDisplayName": "Robert Parsons",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.60573196411133,
+    "longitude": -97.03814697265625,
+    "subID": "S50478805",
+    "howMany": 1,
+    "obsDt": "1986-04-05",
+    "userDisplayName": "Rudolf Koes",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.64311981201172,
+    "longitude": -97.10791015625,
+    "subID": "S51130817",
+    "howMany": 1,
+    "obsDt": "1990-01-14",
+    "userDisplayName": "Rudolf Koes",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.84021759033203,
+    "longitude": -97.12770080566406,
+    "subID": "S53169558",
+    "howMany": 1,
+    "obsDt": "2018-12-24",
+    "userDisplayName": "Mohammad Tohidifar",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.895118713378906,
+    "longitude": -97.13688659667969,
+    "subID": "S54235393",
+    "howMany": 1,
+    "obsDt": "2019-03-25",
+    "userDisplayName": "Cam Nikkel",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.895118713378906,
+    "longitude": -97.13688659667969,
+    "subID": "S54235350",
+    "howMany": 1,
+    "obsDt": "2019-03-25",
+    "userDisplayName": "Aaron Janzen",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S202404239",
+    "howMany": 1,
+    "obsDt": "2024-11-13",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S167099112",
+    "howMany": 1,
+    "obsDt": "2024-04-03",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S165376798",
+    "howMany": 1,
+    "obsDt": "2024-03-19",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S156341694",
+    "howMany": 1,
+    "obsDt": "2023-12-15",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S156272215",
+    "howMany": 1,
+    "obsDt": "2023-12-13",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S155913545",
+    "howMany": 1,
+    "obsDt": "2023-12-06",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S155758502",
+    "howMany": 1,
+    "obsDt": "2023-12-04",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S153617268",
+    "howMany": 1,
+    "obsDt": "2023-11-02",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S133005427",
+    "howMany": 1,
+    "obsDt": "2023-04-07",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S120864785",
+    "howMany": 1,
+    "obsDt": "2022-10-17",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S120111281",
+    "howMany": 1,
+    "obsDt": "2022-10-06",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S113581131",
+    "howMany": 1,
+    "obsDt": "2022-06-22",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S108964172",
+    "howMany": 1,
+    "obsDt": "2022-05-03",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S106985205",
+    "howMany": 1,
+    "obsDt": "2022-04-13",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S106664394",
+    "howMany": 1,
+    "obsDt": "2022-04-09",
+    "userDisplayName": "Jan Bradley",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S86296665",
+    "howMany": 1,
+    "obsDt": "2021-04-24",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S85627275",
+    "howMany": 1,
+    "obsDt": "2021-04-15",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S85198146",
+    "howMany": 1,
+    "obsDt": "2021-04-09",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S84769365",
+    "howMany": 1,
+    "obsDt": "2021-04-04",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S84729341",
+    "howMany": 1,
+    "obsDt": "2021-04-03",
+    "userDisplayName": "Jan Bradley",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S84641346",
+    "howMany": 1,
+    "obsDt": "2021-04-02",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S77813298",
+    "howMany": 1,
+    "obsDt": "2020-12-21",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S77111485",
+    "howMany": 1,
+    "obsDt": "2020-12-05",
+    "userDisplayName": "Jan Bradley",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S73662194",
+    "howMany": 1,
+    "obsDt": "2020-09-16",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S69738794",
+    "howMany": 1,
+    "obsDt": "2020-05-27",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S68084586",
+    "howMany": 1,
+    "obsDt": "2020-04-29",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S67443183",
+    "howMany": 1,
+    "obsDt": "2020-04-18",
+    "userDisplayName": "Jan Bradley",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.876251220703125,
+    "longitude": -97.18103790283203,
+    "subID": "S67223126",
+    "howMany": 1,
+    "obsDt": "2020-04-14",
+    "userDisplayName": "Jan Bradley",
+    "evidence": "N"
+  },
+  {
+    "latitude": 49.76227951049805,
+    "longitude": -97.14292907714844,
+    "subID": "S60042474",
+    "howMany": 2,
+    "obsDt": "2019-09-22",
+    "userDisplayName": "Ann Loewen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.757789611816406,
+    "longitude": -97.14234924316406,
+    "subID": "S56947690",
+    "howMany": 1,
+    "obsDt": "2019-05-31",
+    "userDisplayName": "Ann Loewen",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.76848602294922,
+    "longitude": -97.15431213378906,
+    "subID": "S242516365",
+    "howMany": 1,
+    "obsDt": "2025-05-25",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.76848602294922,
+    "longitude": -97.15431213378906,
+    "subID": "S179737448",
+    "howMany": 1,
+    "obsDt": "2024-06-06",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  },
+  {
+    "latitude": 49.76848602294922,
+    "longitude": -97.15431213378906,
+    "subID": "S82741637",
+    "howMany": 1,
+    "obsDt": "2021-03-04",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": "P"
+  },
+  {
+    "latitude": 49.76848602294922,
+    "longitude": -97.15431213378906,
+    "subID": "S77634136",
+    "howMany": 1,
+    "obsDt": "2020-12-18",
+    "userDisplayName": "Andy Courcelles",
+    "evidence": ""
+  }
+]
