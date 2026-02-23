@@ -7,6 +7,7 @@
 <style>
   html, body { height: 100%; margin: 0; }
   #map { height: 100%; }
+  #frameLabel {color:blue;font-size: 2em;font-weight: bolder;}
   .dropdown-container {
     position: absolute;
     top: 10px;
@@ -21,6 +22,17 @@
 </head>
 <body>
 <div class="dropdown-container">
+    <div id="frameLabel">
+        Loading...
+    </div>
+</br>
+    <label for="groupSelect">Grouping:</label>
+    <select id="groupSelect">
+        <option value="None">None</option>
+        <option value="Monthly">Monthly</option>
+        <option value="Yearly">Yearly</option>
+    </select>
+</br>
     <label for="tileSelect">Map Style:</label>
     <select id="tileSelect">
         <option value="OpenStreetMap.Mapnik">OpenStreetMap</option>
@@ -44,10 +56,31 @@
 <script>
 (async function() {
     try {
+        let heatLayer = null;
+        let index = 0;
+        let group = "None";
+
         // Load JSON data
         const response = await fetch('data.json');
         if (!response.ok) throw new Error('Failed to load JSON');
         const rawData = await response.json();
+
+        const allData = [];
+        rawData.forEach(item => {
+            allData.push([item.latitude, item.longitude, item.howMany || 1]);
+        });
+
+        // Group points by month
+        const monthlyData = {};
+        rawData.forEach(item => {
+            if (!item.obsDt || typeof item.latitude !== 'number' || typeof item.longitude !== 'number') return;
+            const month = new Date(item.obsDt).getMonth();
+            if (!monthlyData[month]) monthlyData[month] = [];
+            monthlyData[month].push([item.latitude, item.longitude, item.howMany || 1]);
+        });
+
+        const months = Object.keys(monthlyData).sort((a,b) => a - b);
+        if (months.length === 0) throw new Error('Unable to group by month');
 
         // Group points by year
         const yearlyData = {};
@@ -59,7 +92,7 @@
         });
 
         const years = Object.keys(yearlyData).sort();
-        if (years.length === 0) throw new Error('No valid data found');
+        if (years.length === 0) throw new Error('Unable to group by year');
 
         // Initialize map
         const map = L.map('map').setView([49.884, -97.14704], 10);
@@ -67,7 +100,16 @@
         // Default tile layer
         let currentLayer = L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(map);
 
-        // Handle dropdown change
+        // Handle group selection change
+        document.getElementById('groupSelect').addEventListener('change', function () {
+            group = this.value;
+            index = 0;  // Restart animation
+            if (heatLayer) map.removeLayer(heatLayer);
+            heatLayer = null;
+            }
+        );
+
+        // Handle tile selection change
         document.getElementById('tileSelect').addEventListener('change', function () {
             const providerName = this.value;
 
@@ -86,38 +128,37 @@
             }
         });
 
-        // Define a custom control for displaying the year
-        L.Control.Textbox = L.Control.extend({
-            onAdd: function () {
-                var textDiv = L.DomUtil.create('div');
-                textDiv.id = "info_text";
-                textDiv.innerHTML = "<h1>Loading...</h1>";
-                return textDiv;
-            },
-            updateText: function (newText) {
-                document.getElementById("info_text").innerHTML = newText;
+        function showNext() {
+            label = "All Data";
+            if(group === "None" && heatLayer === null){
+                heatLayer = L.heatLayer(allData, { radius: 25, blur: 15, maxZoom: 5, max: 5 }).addTo(map);
             }
-        });
-
-        // Add the control to the map
-        var textbox = new L.Control.Textbox({ position: 'bottomleft' });
-        textbox.addTo(map);
-
-        let heatLayer = null;
-        let index = 0;
-
-        function showYear(year) {
-            if (heatLayer) map.removeLayer(heatLayer);
-            heatLayer = L.heatLayer(yearlyData[year], { radius: 25, blur: 15, maxZoom: 5 }).addTo(map);
-            console.log(`Showing year: ${year}`);
-            textbox.updateText(`"<h1>${year}</h1>`);
+            else if(group === "Monthly"){
+                if (heatLayer) map.removeLayer(heatLayer);
+                index = index % months.length;
+                heatLayer = L.heatLayer(monthlyData[index], { radius: 25, blur: 15, maxZoom: 5, max: 5 }).addTo(map);
+                const date = new Date(2000,months[index],1);
+                label = date.toLocaleString('en-US', {month:'long'});
+                index = (index+1);
+            }
+            else if(group === "Yearly"){
+                if (heatLayer) map.removeLayer(heatLayer);
+                index = index % years.length;
+                key = Object.keys(yearlyData)[index];
+                heatLayer = L.heatLayer(yearlyData[key], { radius: 25, blur: 15, maxZoom: 5, max: 5 }).addTo(map);
+                label = key;
+                index = (index+1);
+            }
+            // console.log(`Showing: ${label}`);
+            textbox = document.getElementById("frameLabel");
+            if(textbox){
+                textbox.textContent = label;
+            }
         }
 
-        // Cycle through years every second
-        showYear(years[index]);
+        // Cycle through next group every second
         setInterval(() => {
-            index = (index + 1) % years.length;
-            showYear(years[index]);
+            showNext();
         }, 1000);
 
     } catch (err) {
