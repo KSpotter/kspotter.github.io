@@ -7,15 +7,39 @@
 <style>
   html, body { height: 100%; margin: 0; }
   #map { height: 100%; }
+  .dropdown-container {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    z-index: 1000;
+    background: white;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  }
 </style>
 </head>
 <body>
+<div class="dropdown-container">
+    <label for="tileSelect">Map Style:</label>
+    <select id="tileSelect">
+        <option value="OpenStreetMap.Mapnik">OpenStreetMap</option>
+        <option value="CartoDB.Positron">Carto Light</option>
+        <option value="CartoDB.DarkMatter">Carto Dark</option>
+        <option value="Esri.WorldGrayCanvas">Esri Gray Canvas</option>
+        <option value="Esri.WorldImagery">Esri Satellite</option>
+        <option value="Stadia.StamenTonerLite">Stamen Toner Lite</option>
+        <option value="Stadia.StamenTerrain">Stamen Terrain</option>
+    </select>
+</div>    
 <div id="map"></div>
 
 <!-- Leaflet core -->
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <!-- Leaflet heat plugin -->
 <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+<!-- Leaflet Providers Plugin -->
+<script src="https://unpkg.com/leaflet-providers"></script>
 
 <script>
 (async function() {
@@ -39,11 +63,30 @@
 
         // Initialize map
         const map = L.map('map').setView([49.884, -97.14704], 10);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; OpenStreetMap contributors'
-        }).addTo(map);
 
-        // Define a custom control for displaynig the year
+        // Default tile layer
+        let currentLayer = L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(map);
+
+        // Handle dropdown change
+        document.getElementById('tileSelect').addEventListener('change', function () {
+            const providerName = this.value;
+
+            // Remove old layer
+            if (currentLayer) {
+                map.removeLayer(currentLayer);
+            }
+
+            try {
+                // Add new layer
+                currentLayer = L.tileLayer.provider(providerName);
+                currentLayer.addTo(map);
+            } catch (err) {
+                alert("Error loading provider: " + providerName);
+                console.error(err);
+            }
+        });
+
+        // Define a custom control for displaying the year
         L.Control.Textbox = L.Control.extend({
             onAdd: function () {
                 var textDiv = L.DomUtil.create('div');
